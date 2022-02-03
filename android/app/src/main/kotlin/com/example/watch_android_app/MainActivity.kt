@@ -1,0 +1,6 @@
+package com.example.watch_android_app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
